@@ -53,7 +53,7 @@ g++ main.cpp daisy.cpp world.cpp
 
 ## Ouptut
 
-The simulation will output a result similar to the one shown above:
+The simulation will output a result similar to the one shown below:
 
 ```
 💮💮🌸🌸🌸🌸🌸💮💮  
