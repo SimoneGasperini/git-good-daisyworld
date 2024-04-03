@@ -51,7 +51,7 @@ Alternatively you can manually run the compilation with something like:
 g++ main.cpp daisy.cpp world.cpp
 ```
 
-## Ouptut
+## Output
 
 The simulation will output a result similar to the one shown below:
 
